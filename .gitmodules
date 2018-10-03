@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = http://github.com/KIKI007/kiki007.github.io.git
+	branch = master
