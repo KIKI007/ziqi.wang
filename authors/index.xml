@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Academic</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>**Ziq Wang**</title>
+      <link>/authors/ziq-wang/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ziq-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Pauly</title>
+      <link>/authors/mark-pauly/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mark-pauly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Song</title>
+      <link>/authors/peng-song/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/peng-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hsi-Yung Feng</title>
+      <link>/authors/hsi-yung-feng/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hsi-yung-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jack Szu-Shen Chen</title>
+      <link>/authors/jack-szu-shen-chen/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jack-szu-shen-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jimin Joy</title>
+      <link>/authors/jimin-joy/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jimin-joy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bailin Deng</title>
+      <link>/authors/bailin-deng/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bailin-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chi-Wing Fu</title>
+      <link>/authors/chi-wing-fu/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chi-wing-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligang Liu</title>
+      <link>/authors/ligang-liu/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ligang-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Li</title>
+      <link>/authors/wei-li/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhichao Dong</title>
+      <link>/authors/zhichao-dong/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zhichao-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am a Ph.D. student at Computer Graphics and Geometry Laboratory (EPFL), supervised by Prof. Mark Pauly. The topic of my study mainly focuses on 3D assemblies. Particularly, my works are used to design 3D interlocking puzzles.
+I am also a Ph.D. researcher at NCCR Digital Fabrication where we develop computational methods for Spatial Timber Assemblies and Large-Span Self-Supporting Assemblies.</description>
+    </item>
+    
+  </channel>
+</rss>
