@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Academic</title>
+    <title>2 on Ziqi Wang</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in 2 on Ziqi Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reusable support for additive manufacturing</title>
+      <link>/publication/reusableam/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/reusableam/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machined Sharp Edge Restoration For Triangle Mesh Workpiece Models Derived From Grid-Based Machining Simulation</title>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Ziqi Wang</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Authors on Ziqi Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>**Ziq Wang**</title>
       <link>/authors/ziq-wang/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/ziq-wang/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Mark Pauly</title>
       <link>/authors/mark-pauly/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/mark-pauly/</guid>
       <description></description>
@@ -32,9 +32,45 @@
     <item>
       <title>Peng Song</title>
       <link>/authors/peng-song/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/peng-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siyu Gong</title>
+      <link>/authors/siyu-gong/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/siyu-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Xu</title>
+      <link>/authors/yang-xu/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yang-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Chen</title>
+      <link>/authors/yong-chen/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yong-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florin Isvoranu</title>
+      <link>/authors/florin-isvoranu/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/florin-isvoranu/</guid>
       <description></description>
     </item>
     
@@ -116,8 +152,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>I am a Ph.D. student at Computer Graphics and Geometry Laboratory (EPFL), supervised by Prof. Mark Pauly. The topic of my study mainly focuses on 3D assemblies. Particularly, my works are used to design 3D interlocking puzzles.
-I am also a Ph.D. researcher at NCCR Digital Fabrication where we develop computational methods for Spatial Timber Assemblies and Large-Span Self-Supporting Assemblies.</description>
+      <description>&lt;p&gt;I am a Ph.D. student at &lt;a href=&#34;http://lgg.epfl.ch&#34; target=&#34;_blank&#34;&gt;Computer Graphics and Geometry Laboratory (EPFL)&lt;/a&gt;, supervised by Prof. Mark Pauly. The topic of my study mainly focuses on designing 3D assemblies by using computational methods. Particularly, My works can be applied to design &lt;a href=&#34;https://lgg.epfl.ch/publications/2018/DESIA/index.php&#34; target=&#34;_blank&#34;&gt;3D interlocking puzzles&lt;/a&gt;, &lt;a href=&#34;https://lgg.epfl.ch/publications/2019/Topological_Interlocking/index.php&#34; target=&#34;_blank&#34;&gt;topological interlocking assemblies&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am also a Ph.D. researcher at &lt;a href=&#34;http://dfab.ch&#34; target=&#34;_blank&#34;&gt;NCCR Digital Fabrication&lt;/a&gt; where we develop computational methods for &lt;a href=&#34;https://dfab.ch/streams/spatial-timber-assemblies&#34; target=&#34;_blank&#34;&gt;Spatial Timber Assemblies&lt;/a&gt; and &lt;a href=&#34;https://dfab.ch/streams/large-span-self-supporting-assemblies&#34; target=&#34;_blank&#34;&gt;Large-Span Self-Supporting Assemblies&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
