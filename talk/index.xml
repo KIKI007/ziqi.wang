@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Ziqi Wang</title>
+    <link>/talk/</link>
+    <description>Recent content in Talks on Ziqi Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 10:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State of the Art on Computational Design of Assemblies with Rigid Parts</title>
+      <link>/talk/egstar2021/</link>
+      <pubDate>Tue, 04 May 2021 10:00:00 +0000</pubDate>
+      
+      <guid>/talk/egstar2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Assembly for Fabrication: Shape Optimization</title>
+      <link>/talk/cfseminar/</link>
+      <pubDate>Fri, 26 Mar 2021 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/cfseminar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
